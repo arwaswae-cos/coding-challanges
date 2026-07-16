@@ -18,4 +18,12 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arwaswae-cos/coding-challanges/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/arwaswae-cos/coding-challanges/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/arwaswae-cos/coding-challanges/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
