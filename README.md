@@ -35,4 +35,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/arwaswae-cos/coding-challanges/tree/master/0048-rotate-image) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/arwaswae-cos/coding-challanges/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
