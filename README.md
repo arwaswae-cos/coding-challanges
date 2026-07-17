@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/arwaswae-cos/coding-challanges/tree/master/0048-rotate-image) |
 | [0273-integer-to-english-words](https://github.com/arwaswae-cos/coding-challanges/tree/master/0273-integer-to-english-words) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arwaswae-cos/coding-challanges/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
@@ -26,4 +27,12 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/arwaswae-cos/coding-challanges/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Array
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/arwaswae-cos/coding-challanges/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/arwaswae-cos/coding-challanges/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
