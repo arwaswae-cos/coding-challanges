@@ -1,4 +1,3 @@
-import math as m
 class Solution:
     def countPrimes(self, n: int) -> int:
         if (n<=2):
@@ -10,8 +9,4 @@ class Solution:
             if prime[i] == True:
                 for j in range(i*i,n,i):
                     prime[j] = False
-        return sum(prime)
-
-        
-        
-        
+        return sum(prime)       
