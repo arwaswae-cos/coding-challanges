@@ -36,11 +36,13 @@
 | ------- |
 | [0048-rotate-image](https://github.com/arwaswae-cos/coding-challanges/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/arwaswae-cos/coding-challanges/tree/master/0204-count-primes) |
+| [1260-shift-2d-grid](https://github.com/arwaswae-cos/coding-challanges/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arwaswae-cos/coding-challanges/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/arwaswae-cos/coding-challanges/tree/master/0048-rotate-image) |
+| [1260-shift-2d-grid](https://github.com/arwaswae-cos/coding-challanges/tree/master/1260-shift-2d-grid) |
 ## Database
 |  |
 | ------- |
@@ -49,4 +51,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/arwaswae-cos/coding-challanges/tree/master/0204-count-primes) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/arwaswae-cos/coding-challanges/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
