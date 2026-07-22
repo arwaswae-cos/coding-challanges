@@ -14,5 +14,3 @@ class Solution:
         summ += self.sumOfLeftLeaves(root.left) if root.left !=None else 0
         summ += self.sumOfLeftLeaves(root.right) if root.right !=None else 0
         return summ
-
-         
