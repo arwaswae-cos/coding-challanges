@@ -55,4 +55,20 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/arwaswae-cos/coding-challanges/tree/master/1260-shift-2d-grid) |
+## Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/arwaswae-cos/coding-challanges/tree/master/0404-sum-of-left-leaves) |
+## Depth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/arwaswae-cos/coding-challanges/tree/master/0404-sum-of-left-leaves) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/arwaswae-cos/coding-challanges/tree/master/0404-sum-of-left-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/arwaswae-cos/coding-challanges/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
