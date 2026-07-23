@@ -46,6 +46,7 @@
 ## Database
 |  |
 | ------- |
+| [0511-game-play-analysis-i](https://github.com/arwaswae-cos/coding-challanges/tree/master/0511-game-play-analysis-i) |
 | [0620-not-boring-movies](https://github.com/arwaswae-cos/coding-challanges/tree/master/0620-not-boring-movies) |
 ## Enumeration
 |  |
