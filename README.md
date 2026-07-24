@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/arwaswae-cos/coding-challanges/tree/master/0273-integer-to-english-words) |
+| [0383-ransom-note](https://github.com/arwaswae-cos/coding-challanges/tree/master/0383-ransom-note) |
 ## Recursion
 |  |
 | ------- |
@@ -75,4 +76,12 @@
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/arwaswae-cos/coding-challanges/tree/master/0404-sum-of-left-leaves) |
+## Hash Table
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/arwaswae-cos/coding-challanges/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/arwaswae-cos/coding-challanges/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
