@@ -8,6 +8,7 @@
 | [0204-count-primes](https://github.com/arwaswae-cos/coding-challanges/tree/master/0204-count-primes) |
 | [0273-integer-to-english-words](https://github.com/arwaswae-cos/coding-challanges/tree/master/0273-integer-to-english-words) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arwaswae-cos/coding-challanges/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/arwaswae-cos/coding-challanges/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arwaswae-cos/coding-challanges/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
@@ -84,4 +85,8 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/arwaswae-cos/coding-challanges/tree/master/0383-ransom-note) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/arwaswae-cos/coding-challanges/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
