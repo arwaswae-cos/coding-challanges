@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/arwaswae-cos/coding-challanges/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/arwaswae-cos/coding-challanges/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/arwaswae-cos/coding-challanges/tree/master/0204-count-primes) |
 | [0273-integer-to-english-words](https://github.com/arwaswae-cos/coding-challanges/tree/master/0273-integer-to-english-words) |
