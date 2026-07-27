@@ -38,6 +38,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/arwaswae-cos/coding-challanges/tree/master/0004-median-of-two-sorted-arrays) |
 | [0048-rotate-image](https://github.com/arwaswae-cos/coding-challanges/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/arwaswae-cos/coding-challanges/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arwaswae-cos/coding-challanges/tree/master/0628-maximum-product-of-three-numbers) |
@@ -93,4 +94,12 @@
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/arwaswae-cos/coding-challanges/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/arwaswae-cos/coding-challanges/tree/master/3536-maximum-product-of-two-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/arwaswae-cos/coding-challanges/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/arwaswae-cos/coding-challanges/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
