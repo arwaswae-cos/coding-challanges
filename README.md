@@ -34,11 +34,13 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/arwaswae-cos/coding-challanges/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/arwaswae-cos/coding-challanges/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Array
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/arwaswae-cos/coding-challanges/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/arwaswae-cos/coding-challanges/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/arwaswae-cos/coding-challanges/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/arwaswae-cos/coding-challanges/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arwaswae-cos/coding-challanges/tree/master/0628-maximum-product-of-three-numbers) |
@@ -108,4 +110,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arwaswae-cos/coding-challanges/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/arwaswae-cos/coding-challanges/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
