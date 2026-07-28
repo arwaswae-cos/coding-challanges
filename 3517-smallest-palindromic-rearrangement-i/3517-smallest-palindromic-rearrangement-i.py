@@ -3,14 +3,13 @@ class Solution:
     def smallestPalindrome(self, s: str) -> str:
         n = Counter(s)
         k = sorted(list(n.keys()))
-        frnt,bck = '',''
+        frnt = ''
         mid = ''
         for _ in k:
             t = n[_]//2 
             frnt += _*t
-            bck = _*t + bck
             n[_] -= 2*t
             if n[_]%2 != 0:
                 mid += _
-        return frnt+mid+bck
+        return frnt+mid+frnt[::-1]
         
