@@ -6,7 +6,7 @@ class Solution:
         frnt,bck = '',''
         mid = ''
         for _ in k:
-            t = n[_]//2 if n[_]>1 else 0
+            t = n[_]//2 
             frnt += _*t
             bck = _*t + bck
             n[_] -= 2*t
