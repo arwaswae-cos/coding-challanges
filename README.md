@@ -15,6 +15,7 @@
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/arwaswae-cos/coding-challanges/tree/master/0072-edit-distance) |
 | [0273-integer-to-english-words](https://github.com/arwaswae-cos/coding-challanges/tree/master/0273-integer-to-english-words) |
 | [0383-ransom-note](https://github.com/arwaswae-cos/coding-challanges/tree/master/0383-ransom-note) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/arwaswae-cos/coding-challanges/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -120,4 +121,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/arwaswae-cos/coding-challanges/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/arwaswae-cos/coding-challanges/tree/master/0072-edit-distance) |
 <!---LeetCode Topics End-->
