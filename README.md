@@ -19,6 +19,7 @@
 | [0072-edit-distance](https://github.com/arwaswae-cos/coding-challanges/tree/master/0072-edit-distance) |
 | [0273-integer-to-english-words](https://github.com/arwaswae-cos/coding-challanges/tree/master/0273-integer-to-english-words) |
 | [0383-ransom-note](https://github.com/arwaswae-cos/coding-challanges/tree/master/0383-ransom-note) |
+| [0844-backspace-string-compare](https://github.com/arwaswae-cos/coding-challanges/tree/master/0844-backspace-string-compare) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arwaswae-cos/coding-challanges/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arwaswae-cos/coding-challanges/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/arwaswae-cos/coding-challanges/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -41,6 +42,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/arwaswae-cos/coding-challanges/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/arwaswae-cos/coding-challanges/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0844-backspace-string-compare](https://github.com/arwaswae-cos/coding-challanges/tree/master/0844-backspace-string-compare) |
 ## Array
 |  |
 | ------- |
@@ -72,6 +74,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/arwaswae-cos/coding-challanges/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/arwaswae-cos/coding-challanges/tree/master/1260-shift-2d-grid) |
 ## Tree
 |  |
@@ -133,4 +136,8 @@
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/arwaswae-cos/coding-challanges/tree/master/0072-edit-distance) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/arwaswae-cos/coding-challanges/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
