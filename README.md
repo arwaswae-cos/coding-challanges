@@ -55,6 +55,7 @@
 | [1260-shift-2d-grid](https://github.com/arwaswae-cos/coding-challanges/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arwaswae-cos/coding-challanges/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arwaswae-cos/coding-challanges/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3731-find-missing-elements](https://github.com/arwaswae-cos/coding-challanges/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 | [0242-valid-anagram](https://github.com/arwaswae-cos/coding-challanges/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/arwaswae-cos/coding-challanges/tree/master/0383-ransom-note) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arwaswae-cos/coding-challanges/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/arwaswae-cos/coding-challanges/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
@@ -113,6 +115,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arwaswae-cos/coding-challanges/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/arwaswae-cos/coding-challanges/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/arwaswae-cos/coding-challanges/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/arwaswae-cos/coding-challanges/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
