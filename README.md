@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/arwaswae-cos/coding-challanges/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/arwaswae-cos/coding-challanges/tree/master/0048-rotate-image) |
+| [0171-excel-sheet-column-number](https://github.com/arwaswae-cos/coding-challanges/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/arwaswae-cos/coding-challanges/tree/master/0204-count-primes) |
 | [0273-integer-to-english-words](https://github.com/arwaswae-cos/coding-challanges/tree/master/0273-integer-to-english-words) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arwaswae-cos/coding-challanges/tree/master/0628-maximum-product-of-three-numbers) |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/arwaswae-cos/coding-challanges/tree/master/0072-edit-distance) |
+| [0171-excel-sheet-column-number](https://github.com/arwaswae-cos/coding-challanges/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/arwaswae-cos/coding-challanges/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/arwaswae-cos/coding-challanges/tree/master/0273-integer-to-english-words) |
 | [0383-ransom-note](https://github.com/arwaswae-cos/coding-challanges/tree/master/0383-ransom-note) |
