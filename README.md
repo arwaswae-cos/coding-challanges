@@ -13,6 +13,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/arwaswae-cos/coding-challanges/tree/master/0989-add-to-array-form-of-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arwaswae-cos/coding-challanges/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arwaswae-cos/coding-challanges/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/arwaswae-cos/coding-challanges/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/arwaswae-cos/coding-challanges/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arwaswae-cos/coding-challanges/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/arwaswae-cos/coding-challanges/tree/master/0204-count-primes) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/arwaswae-cos/coding-challanges/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Simulation
 |  |
 | ------- |
