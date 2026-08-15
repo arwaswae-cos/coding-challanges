@@ -56,6 +56,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/arwaswae-cos/coding-challanges/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/arwaswae-cos/coding-challanges/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/arwaswae-cos/coding-challanges/tree/master/0048-rotate-image) |
+| [0118-pascals-triangle](https://github.com/arwaswae-cos/coding-challanges/tree/master/0118-pascals-triangle) |
 | [0204-count-primes](https://github.com/arwaswae-cos/coding-challanges/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arwaswae-cos/coding-challanges/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/arwaswae-cos/coding-challanges/tree/master/0989-add-to-array-form-of-integer) |
@@ -155,6 +156,7 @@
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/arwaswae-cos/coding-challanges/tree/master/0072-edit-distance) |
+| [0118-pascals-triangle](https://github.com/arwaswae-cos/coding-challanges/tree/master/0118-pascals-triangle) |
 ## Stack
 |  |
 | ------- |
