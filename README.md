@@ -61,6 +61,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/arwaswae-cos/coding-challanges/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/arwaswae-cos/coding-challanges/tree/master/0989-add-to-array-form-of-integer) |
 | [1260-shift-2d-grid](https://github.com/arwaswae-cos/coding-challanges/tree/master/1260-shift-2d-grid) |
+| [1386-cinema-seat-allocation](https://github.com/arwaswae-cos/coding-challanges/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arwaswae-cos/coding-challanges/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arwaswae-cos/coding-challanges/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arwaswae-cos/coding-challanges/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -110,6 +111,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/arwaswae-cos/coding-challanges/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/arwaswae-cos/coding-challanges/tree/master/0383-ransom-note) |
+| [1386-cinema-seat-allocation](https://github.com/arwaswae-cos/coding-challanges/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arwaswae-cos/coding-challanges/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arwaswae-cos/coding-challanges/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arwaswae-cos/coding-challanges/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -146,6 +148,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/arwaswae-cos/coding-challanges/tree/master/0011-container-with-most-water) |
+| [1386-cinema-seat-allocation](https://github.com/arwaswae-cos/coding-challanges/tree/master/1386-cinema-seat-allocation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arwaswae-cos/coding-challanges/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arwaswae-cos/coding-challanges/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting Sort
@@ -165,4 +168,8 @@
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arwaswae-cos/coding-challanges/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/arwaswae-cos/coding-challanges/tree/master/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
