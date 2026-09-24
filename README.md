@@ -15,6 +15,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arwaswae-cos/coding-challanges/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/arwaswae-cos/coding-challanges/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/arwaswae-cos/coding-challanges/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/arwaswae-cos/coding-challanges/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arwaswae-cos/coding-challanges/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
@@ -66,6 +67,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arwaswae-cos/coding-challanges/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arwaswae-cos/coding-challanges/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arwaswae-cos/coding-challanges/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/arwaswae-cos/coding-challanges/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/arwaswae-cos/coding-challanges/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
