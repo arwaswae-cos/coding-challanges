@@ -27,6 +27,7 @@
 | [0383-ransom-note](https://github.com/arwaswae-cos/coding-challanges/tree/master/0383-ransom-note) |
 | [0804-unique-morse-code-words](https://github.com/arwaswae-cos/coding-challanges/tree/master/0804-unique-morse-code-words) |
 | [0844-backspace-string-compare](https://github.com/arwaswae-cos/coding-challanges/tree/master/0844-backspace-string-compare) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/arwaswae-cos/coding-challanges/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arwaswae-cos/coding-challanges/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arwaswae-cos/coding-challanges/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/arwaswae-cos/coding-challanges/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -66,6 +67,7 @@
 | [1260-shift-2d-grid](https://github.com/arwaswae-cos/coding-challanges/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/arwaswae-cos/coding-challanges/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arwaswae-cos/coding-challanges/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/arwaswae-cos/coding-challanges/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arwaswae-cos/coding-challanges/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arwaswae-cos/coding-challanges/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arwaswae-cos/coding-challanges/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -117,6 +119,7 @@
 | [0383-ransom-note](https://github.com/arwaswae-cos/coding-challanges/tree/master/0383-ransom-note) |
 | [0804-unique-morse-code-words](https://github.com/arwaswae-cos/coding-challanges/tree/master/0804-unique-morse-code-words) |
 | [1386-cinema-seat-allocation](https://github.com/arwaswae-cos/coding-challanges/tree/master/1386-cinema-seat-allocation) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/arwaswae-cos/coding-challanges/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arwaswae-cos/coding-challanges/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arwaswae-cos/coding-challanges/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arwaswae-cos/coding-challanges/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
