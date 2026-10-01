@@ -20,6 +20,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/arwaswae-cos/coding-challanges/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/arwaswae-cos/coding-challanges/tree/master/0072-edit-distance) |
 | [0171-excel-sheet-column-number](https://github.com/arwaswae-cos/coding-challanges/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/arwaswae-cos/coding-challanges/tree/master/0242-valid-anagram) |
@@ -171,6 +172,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/arwaswae-cos/coding-challanges/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/arwaswae-cos/coding-challanges/tree/master/0844-backspace-string-compare) |
 ## Sliding Window
 |  |
@@ -180,4 +182,8 @@
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/arwaswae-cos/coding-challanges/tree/master/1386-cinema-seat-allocation) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/arwaswae-cos/coding-challanges/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
