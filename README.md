@@ -12,6 +12,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/arwaswae-cos/coding-challanges/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/arwaswae-cos/coding-challanges/tree/master/0989-add-to-array-form-of-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arwaswae-cos/coding-challanges/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/arwaswae-cos/coding-challanges/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arwaswae-cos/coding-challanges/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/arwaswae-cos/coding-challanges/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/arwaswae-cos/coding-challanges/tree/master/3536-maximum-product-of-two-digits) |
@@ -29,6 +30,7 @@
 | [0804-unique-morse-code-words](https://github.com/arwaswae-cos/coding-challanges/tree/master/0804-unique-morse-code-words) |
 | [0844-backspace-string-compare](https://github.com/arwaswae-cos/coding-challanges/tree/master/0844-backspace-string-compare) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/arwaswae-cos/coding-challanges/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2409-count-days-spent-together](https://github.com/arwaswae-cos/coding-challanges/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arwaswae-cos/coding-challanges/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arwaswae-cos/coding-challanges/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/arwaswae-cos/coding-challanges/tree/master/3517-smallest-palindromic-rearrangement-i) |
